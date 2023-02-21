@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Pr 3-4/1.0.0": {
+        "runtime": {
+          "Pr 3-4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pr 3-4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
